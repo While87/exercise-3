@@ -5,3 +5,5 @@
 3. Для запросов в сеть нужно использовать Alamofire с помощью ​swift package manager.​
 4. Для доступа к Github использовать официальный API ​https://developer.github.com/v3/
 5. Язык программирования: Swift последней версии
+
+![изображение](https://user-images.githubusercontent.com/3084720/132683459-b8137cae-3df8-43b1-be44-08717798b21b.png)
